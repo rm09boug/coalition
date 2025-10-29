@@ -1,0 +1,14 @@
+---
+{"publish":true,"aliases":"Queen Sylveth Sylveth","created":"2025-10-28T21:37:29.262-04:00","modified":"2025-10-29T18:11:30.275-04:00","tags":["npc","aurenne","house-casteyr"],"cssclasses":""}
+---
+
+*Queen Consort of Aurenne*
+### Quick Facts
+**Birthday:** 613 (Age 29)
+**Appearance:** Pale hair, glass-pale eyes, and a softness that makes her seem almost cherubic.
+**Disposition:** Publicly reverent and composed. Privately, sheltered and emotionally volatile. Intelligent, but untempered by hardship or political consequence.
+**Current Seat:** Her Majesty, Queen Consort of Aurenne
+### About
+Sylveth performs her public duties flawlessly, never faltering before court or clergy, but behind closed doors, it is plain she is still very young. She approaches life as one who has always been protected, without the reflexive caution of those born under pressure. She leans heavily on routine, luxury, and trusted attendants, withdrawing when the mood strikes her and turning to substance to numb her nerves. Her relationship with Esra is polite, but defined more by the space they share under [[Queen Virelle Casteyr\|Virelle]]'s shadow, rather than trust.
+
+Gave birth to twins in 633, Adraston and Lucenne Casteyr.
