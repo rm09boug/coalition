@@ -1,8 +1,8 @@
 ---
-{"publish":true,"aliases":"Renault Sir Renault Tolerance","created":"2025-10-28T17:21:18.755-04:00","modified":"2025-10-29T18:11:37.986-04:00","tags":["aurenne","npc"],"cssclasses":""}
+{"publish":true,"aliases":"Renault Sir Renault Tolerance","modified":"2025-10-29T21:49:26.322-04:00","tags":["aurenne","npc"],"cssclasses":""}
 ---
 
-*Former [[Crownsguard]] of [[Aurenne]]; Tolerance; Knight of the Silver Reins*
+*Former Crownsguard of Aurenne; Tolerance; Knight of the Silver Reins*
 ### Quick Facts
 **Age:** Mid-50s
 **Appearance:** Broad-shouldered, clean-shaven save for a thick grey moustache; weathered skin and steady blue eyes. Moves with a deliberate limp.
