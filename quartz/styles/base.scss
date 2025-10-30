@@ -71,6 +71,7 @@ article {
 
 strong {
   font-weight: $semiBoldWeight;
+  color: #889D9B;
 }
 
 a {
@@ -398,12 +399,18 @@ h2 {
   font-size: 1.4rem;
   margin-top: 1.9rem;
   margin-bottom: 1rem;
+  border-bottom: 2px solid var(--dark); /* Adjust thickness, style, and color as needed */
+  padding-bottom: 5px; /* Adds space between the text and the line */
+  margin-bottom: 15px; /* Adds space below the line */
 }
 
 h3 {
   font-size: 1.12rem;
   margin-top: 1.62rem;
   margin-bottom: 1rem;
+  border-bottom: 2px solid var(--dark); /* Adjust thickness, style, and color as needed */
+  padding-bottom: 5px; /* Adds space between the text and the line */
+  margin-bottom: 15px; /* Adds space below the line */
 }
 
 h4,
