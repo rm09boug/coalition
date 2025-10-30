@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-10-26T16:32:49.385-04:00","modified":"2025-10-29T18:11:13.210-04:00","tags":["city","aurenne","location"],"cssclasses":""}
+{"publish":true,"modified":"2025-10-29T20:22:04.433-04:00","tags":["city","aurenne","location"],"cssclasses":""}
 ---
 
 The radiant capital and seat of both the Crown and Parliament, built around the Mirrorwater Bay and crowned by the ivory spires of the Veiled Seat. Aurenne City is a convergence of trade, scholarship, and intrigue. Every decision that shapes the realm’s fate begins in its marble halls or shadowed alleys.
@@ -74,7 +74,7 @@ The highest fortress in Aurenne City, the Citadel crowns the royal hill overlook
 ##### The Hall of Blades
 A subterranean crypt beneath the Citadel where the armor of fallen [[Crown Keepers]] is sealed behind glass and light. The silence there is said to make intruders weep.
 ##### The Temple of the Radiant Path
-The Spiritual Heart - The dominant faith of Aurenne, preaching light, mercy, and the sanctity of balanced order. Its great basilica in Aurenne City holds as much influence as any noble house. The clergy serve as moral guardians to the throne, though their loyalty lies first with the divine tenets of the [[Radiant Path]].
+The Spiritual Heart - The dominant faith of Aurenne, preaching light, mercy, and the sanctity of balanced order. Its great basilica in Aurenne City holds as much influence as any noble house. The clergy serve as moral guardians to the throne, though their loyalty lies first with the divine tenets of [[The Radiant Path]].
 ##### The Spire of Bells
 A tower rising above the Temple of the Radiant Path, its chimes mark every hour of the capital’s day.
 ##### The Hall of Mercy
