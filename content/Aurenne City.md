@@ -1,11 +1,11 @@
 ---
-{"publish":true,"modified":"2025-10-29T20:22:04.433-04:00","tags":["city","aurenne","location"],"cssclasses":""}
+{"publish":true,"modified":"2025-10-29T20:27:23.356-04:00","tags":["city","aurenne","location"],"cssclasses":""}
 ---
 
 The radiant capital and seat of both the Crown and Parliament, built around the Mirrorwater Bay and crowned by the ivory spires of the Veiled Seat. Aurenne City is a convergence of trade, scholarship, and intrigue. Every decision that shapes the realm’s fate begins in its marble halls or shadowed alleys.
 
-## :RiVipCrownFill: Factions of Aurenne City
-#### :LiScrollText: Circle of the People
+## Factions of Aurenne City
+#### Circle of the People
 **Ideology:** Reformist / Populist Humanism
 **Bloc Leader:** Lady Miren Solis 
 **Symbol:** An open hand encircled by a laurel of wheat
@@ -13,7 +13,7 @@ The radiant capital and seat of both the Crown and Parliament, built around the 
 The Circle champions provincial autonomy, representation of guilds and labor, and curtailing noble privilege. They emerged during the famine decades a century ago, when the peasantry and merchant middle class demanded voice and relief. Though often dismissed as idealists, their growing influence reflects an undeniable truth: Aurenne’s prosperity depends as much on the hands of its people as on the will of its crown.
 
 They promote infrastructure, education, and open trade reforms, viewing progress as a moral duty. Their rhetoric leans toward compassion and civic virtue, though critics accuse them of courting instability by empowering commoners.
-#### :LiScrollText: The Pearl Veil Consortium
+#### The Pearl Veil Consortium
 **Ideology:** Mercantile Oligarchy / Trade Supremacy
 **Bloc Leader:** Mistress Kaedra Wynfall, Lady of Elaren Port
 **Symbol:** A silver coin wrapped in a veil of sea silk
@@ -23,7 +23,7 @@ The Consortium arose from the merchant guilds of the western coasts, later coale
 Though technically loyal to the crown, their allegiance is fluid, as shifting as the tides they rule. They advocate for deregulation, foreign trade rights, and protection of shipping lanes, often clashing with reformists over taxation and with nobles over import monopolies.
 
 Elegant and calculating, the Pearl Veil thrives in the balance between favor and leverage, a merchant’s game played on a national scale.
-#### :LiScrollText: The Illuminate
+#### The Illuminate
 **Ideology:** Cultural Aristocracy / Intellectual Traditionalism
 **Bloc Leader:** Countess Elyra Vaeloren
 **Symbol:** A golden sunburst crowned with a quill
@@ -33,7 +33,7 @@ The Illuminate are patrons of art, scholarship, and the sanctity of heritage. To
 They resist populist reforms and commercial overreach, believing both degrade Aurenne’s cultural identity. Though not overtly authoritarian, they quietly shape narrative and education, ensuring that the realm remembers who it was meant to be.
 
 They are the voice of refinement and moral legitimacy, the gilded conscience of the elite. 
-#### :LiScrollText: The Pillar Assembly
+#### The Pillar Assembly
 **Ideology:** Administrative Realism / Bureaucratic Neutrality
 **Bloc Leader:** Ambassador Naelen Torvane
 **Symbol:** A silver key crossed with a hammer upon a field of gray
@@ -58,8 +58,8 @@ Over generations, they have mastered the art of bureaucratic erasure, manipulati
 > To the reformists, they are reactionaries.
 To the nobles, they are ghosts in the ledger.
 To themselves, they are the final safeguard, the quiet architects of equilibrium in an age that fears silence.
-## :LiMap: The Four Quarters of Aurenne City
-### :RiMapPinLine: North Quarter — The Crown District
+## The Four Quarters of Aurenne City
+### North Quarter — The Crown District
 Seat of monarchy and faith, the North Quarter holds the Citadel, the Temple of the Radiant Path, and the noble estates that cluster along the Sunspire Avenue. Clean streets and gilded gates mark the realm’s old power, where silence and ceremony outweigh the clamor of the rest of the city.
 ##### The Grand Palace of Aurenne
 Rising at the heart of the Crown District, the Grand Palace is less a residence than a living chronicle of the realm, a sprawling complex of marble wings, domed courtyards, and mirrored corridors built across centuries of reign. Its gilded spires catch the dawn first and the dusk last, casting their reflection across the Silver Promenade that leads to the Citadel’s gates. Within its halls, history breathes through architecture: vaulted ceilings painted with the lineages of kings and queens, gardens shaped to the constellations of the royal founders, and floors of inlaid quartz that shimmer like captured starlight.
@@ -87,7 +87,7 @@ Joined by fortified causeways to the lower Bastion, the Bulwark houses the [[Roy
 ##### The Hall of Ministries
 *The Seat of the Pillar Assembly*
 Rising opposite the Crown’s boulevard, the Hall of Ministries is a labyrinthine expanse of council chambers, archives, and offices where Aurenne’s bureaucratic arteries converge. It is the stronghold of [[Ambassador Naelen Torvane]]’s [[Pillar Assembly]]. Its marble façades bear seven pillars, each etched with a virtue of governance: Clarity, Balance, Resolve, Prudence, Order, Trade, and Peace. Beneath them, ambition hums like a quiet hymn.
-### :RiMapPinLine: South Quarter — The Foundry District
+### South Quarter — The Foundry District
 Smoke and fire rise eternally from the forges of the [[Iron Standard Guild]]. Here, smithies, engineers, and machinists labor beneath the soot-streaked towers. Steam engines hiss through the alleys, and the clang of hammers is the heartbeat of the city. The Bastion watches from its edge, where industry and discipline intertwine
 ##### The Oathfire Forge
 Seat of the [[Iron Standard Guild]]’s most sacred foundry. A heart flame, said to have burned since the kingdom’s founding, is kept alive within its heart, used only to forge weapons for the Crown and sacred relics of office.
@@ -99,7 +99,7 @@ Seat of the [[Civic Guard]], the Bastion is a sprawling citadel built into the h
 A fortified checkpoint named for [[Marshal Corin Deyrsson]], built after the [[The Great Famine Riots]]. Its towers are manned day and night by the [[Royal Wardens]] and [[Civic Guard]], a rare joint command. Inscribed on its gate are the words: “Loyalty Stands Where Blood Fell.”
 ##### The Cindermarket
 An open-air market that operates at dawn before the forges light. Miners, smiths, and furnace-tenders barter here for scrap metal, coal, and salvage, as well as strong coffee and soot-black bread. It’s a place of rough humor and quiet solidarity, where hard hands greet each sunrise in iron and fire.
-### :RiMapPinLine: East Quarter — The Commons Reach
+### East Quarter — The Commons Reach
 Bustling with markets, guildhouses, and civic halls, the East Quarter is where policy meets populace. The Commons Hall, Hall of Ministries, and Archives cluster here, alongside sprawling merchant plazas. It is the city’s true crossroads — where words hold as much power as swords.
 ##### The Archives of Aurenne City
 *The Living Memory of the Realm*
@@ -115,7 +115,7 @@ A grand circular chamber of marble and brass in the lower district, the Commons 
 A maze of tightly packed streets in the East Quarter, lit perpetually by hanging lanterns of glass and copper. Known for its taverns, informants, and street theaters, it is the cultural pulse of the common folk, and a favored recruiting ground for the Civic Guard.
 ##### The Brass Finch Tavern
 A noisy, multilevel tavern famous for its debate tables: anyone may stand upon the Speaker’s Barrel during debate night to argue a point before the crowd, and the best orators earn a week’s tab on the house. Favored by students, reformists, and off-duty Civic Guards.
-### :RiMapPinLine: West Quarter — The Artisan’s Court
+### West Quarter — The Artisan’s Court
 A district of beauty and refinement, home to sculptors, jewelers, and musicians whose craft defines Aurenne’s elegance. The Gilded Lyceum stands at its heart, surrounded by fountains and shaded promenades. The air smells of marble dust, paint oils, and freshly inked parchment, the quiet work of creation.
 ##### The Gilded Lyceum
 *Seat of the Illuminate; The Memory of Art and Grace*
