@@ -1,11 +1,11 @@
 ---
-{"publish":true,"aliases":"Esra Esradayne","modified":"2025-11-03T11:36:34.121-05:00","tags":["esra","pc","house-casteyr"],"cssclasses":""}
+{"publish":true,"aliases":"Esra Esradayne","modified":"2025-11-03T12:02:48.567-05:00","tags":["esra","pc","house-casteyr"],"cssclasses":""}
 ---
 
 
 ![[attachments/esra.webp|381x311]]
 ### Quick Facts
-**Birthday:** The 11th of Verdanspire, 621 (Age 21)
+**Birthday:** [[The Calendar of Aurenne\|The 11th of Sunspire, 621]] (Age 21)
 **Born in:** Aurenne City, [[Aurenne]]
 **Appearance:** 5’6” with a soft build. Has her mother’s dark, curly hair and her father’s grey-green eyes and pale countenance. Sunken, heavily lidded eyes and a hawkish nose.
 **Disposition:** Extroverted, curious. Polite but arrogant. 
