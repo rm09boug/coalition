@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Aurenne The Kingdom of Aurenne","modified":"2025-11-03T10:56:42.779-05:00","tags":["country","aurenne","location"],"cssclasses":""}
+{"publish":true,"aliases":"Aurenne The Kingdom of Aurenne","modified":"2025-11-03T11:04:15.820-05:00","tags":["country","aurenne","location"],"cssclasses":""}
 ---
 
 *“Two Voices, One Song.”*
@@ -38,7 +38,7 @@ Aurenne’s council remains a delicate tapestry of reformists, loyalists, and pr
 The radiant capital and seat of both the Crown and Parliament, built around the Mirrorwater Bay and crowned by the ivory spires of the Veiled Seat. [[Aurenne City]] is a convergence of trade, scholarship, and intrigue. Every decision that shapes the realm’s fate begins in its marble halls or shadowed alleys.
 #### The Silver Vale
 *Breadbasket and Coinhold of Aurenne*
-Rolling plains and river-vales rich with farmland and silver-veined hills. They are famed for their minted coinage, fine horses, and merchant nobles. Pragmatic and profit-driven, their allegiance often follows the weight of gold more than the pull of honor.
+Rolling plains and river-vales rich with farmland and silver-veined hills. [[The Silver Vale]] is famed for their minted coinage, fine horses, and merchant nobles. Pragmatic and profit-driven, their allegiance often follows the weight of gold more than the pull of honor.
 #### Deyrholm Frontier
 *The Shield of the East*
 A rugged, wind-scoured expanse of fortresses and high moors where Aurenne’s borders meet [[Ravne]]’s lands. The people of the [[Deyrholm Frontier]] are soldiers born, disciplined, stoic, and suspicious of outsiders. The Deyrsson line commands deep respect here, remembered for redeeming their ancestor’s rebellion.

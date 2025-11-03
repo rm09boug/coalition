@@ -1,11 +1,12 @@
 ---
-{"publish":true,"aliases":"Esra Esradayne","modified":"2025-10-29T20:21:10.599-04:00","tags":["esra","pc","house-casteyr"],"cssclasses":""}
+{"publish":true,"aliases":"Esra Esradayne","modified":"2025-11-03T11:36:34.121-05:00","tags":["esra","pc","house-casteyr"],"cssclasses":""}
 ---
 
 
 ![[attachments/esra.webp|381x311]]
 ### Quick Facts
 **Birthday:** The 11th of Verdanspire, 621 (Age 21)
+**Born in:** Aurenne City, [[Aurenne]]
 **Appearance:** 5’6” with a soft build. Has her mother’s dark, curly hair and her father’s grey-green eyes and pale countenance. Sunken, heavily lidded eyes and a hawkish nose.
 **Disposition:** Extroverted, curious. Polite but arrogant. 
 **Current Seat:** Princess of [[Aurenne]], betrothed to [[Prince Erasyl Kadin]], a Merchant Prince from [[The Free Cities of Selvarra]]
@@ -24,7 +25,7 @@
 - In 641, Esra is betrothed to [[Prince Erasyl Kadin]] of [[The Free Cities of Selvarra]].
 	- Esra is accosted in the streets around this time. [[Kismet]] (?) comes to her rescue.
 	- [[Sir Renault Durand\|Sir Renault]] is quietly retired.
-- Prince Kadin's half-nephew [[Rajendra Darakan]] arrives at court to collect Esra (?)
+- Prince Kadin's half-nephew [[Nasrin Rajat Darakan]] arrives at court to collect Esra (?)
 - Game start :]
 ### Related NPCs
 - [[King Roquint Casteyr]]
