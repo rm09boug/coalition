@@ -1,5 +1,5 @@
 ---
-{"publish":true,"modified":"2025-10-29T18:34:23.224-04:00","cssclasses":""}
+{"publish":true,"modified":"2025-11-03T12:08:20.865-05:00","cssclasses":""}
 ---
 
 
@@ -28,5 +28,4 @@
 - [[Captain Vesper Lyell\|Captain Vesper Lyell]]
 - [[Queen Ysvara Caelveth\|Queen Ysvara Caelveth]]
 - [[Prince Erasyl Kadin\|Prince Erasyl Kadin]]
-
 

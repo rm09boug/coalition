@@ -1,9 +1,7 @@
 ---
-{"publish":true,"aliases":"Esra Esradayne","modified":"2025-11-03T12:02:48.567-05:00","tags":["esra","pc","house-casteyr"],"cssclasses":""}
+{"publish":true,"aliases":"Esra Esradayne","modified":"2025-11-03T12:09:00.759-05:00","tags":["esra","pc","house-casteyr"],"cssclasses":""}
 ---
 
-
-![[attachments/esra.webp|381x311]]
 ### Quick Facts
 **Birthday:** [[The Calendar of Aurenne\|The 11th of Sunspire, 621]] (Age 21)
 **Born in:** Aurenne City, [[Aurenne]]
