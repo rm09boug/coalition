@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Aurenne The Kingdom of Aurenne","modified":"2025-11-03T11:04:15.820-05:00","tags":["country","aurenne","location"],"cssclasses":""}
+{"publish":true,"aliases":"Aurenne The Kingdom of Aurenne","modified":"2025-11-11T13:19:58.316-05:00","tags":["country","aurenne","location"],"cssclasses":""}
 ---
 
 *“Two Voices, One Song.”*
@@ -56,7 +56,6 @@ Verdant valleys and misty woodlands known for poets, artisans, and the oldest no
 A sunlit southern coastline dotted with embassies, villas, and sea fortresses. Known for its azure bays and vineyards, [[The Sapphire Coast]] is Aurenne’s window to the world  - where envoys, spies, and merchant princes weave alliances under banners of courtesy and wine-stained smiles.
 #### The Heartland
 Beyond its great provinces and coastal dominions, Aurenne’s heartland is dotted with dozens of duchies, baronies, and holdfasts, minor realms that trace their lineages to the kingdom’s founding wars. Some rule fertile valleys and riverlands; others command highland fortresses or mist-wrapped moors. Each swears fealty to the Crown but governs with fierce independence, their banners and customs as varied as the soil beneath them. These duchies serve as Aurenne’s lifeblood, managing trade routes, training levies, and preserving the old rites forgotten by the capital. From the marble workshops of [[Valmere]] to the storm-worn bastions of [[Korrin Peaks]], from the plains of [[Tareth]] to the twilight vineyards of [[Rhaedun]], they are the quiet architecture of the realm’s endurance, a thousand loyal voices upholding the weight of Aurenne.
-
 ### Related NPCs
 - [[Sir Renault Durand\|Sir Renault Durand]]
 - [[Seriane of Deyrholm\|Seriane of Deyrholm]]
