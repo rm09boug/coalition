@@ -1,8 +1,8 @@
 ---
-{"publish":true,"modified":"2025-11-03T10:49:03.144-05:00","tags":["city","aurenne","location"],"cssclasses":""}
+{"publish":true,"modified":"2025-11-11T15:30:09.462-05:00","tags":["city","aurenne","location"],"cssclasses":""}
 ---
 
-The radiant capital and seat of both the Crown and Parliament, built around the Mirrorwater Bay and crowned by the ivory spires of the Veiled Seat. Aurenne City is a convergence of trade, scholarship, and intrigue. Every decision that shapes the realm’s fate begins in its marble halls or shadowed alleys.
+The radiant capital and seat of both the Crown and Parliament, built around the Argent Bay and crowned by the ivory spires of the Veiled Seat. Aurenne City is a convergence of trade, scholarship, and intrigue. Every decision that shapes the realm’s fate begins in its marble halls or shadowed alleys.
 
 ## Factions of Aurenne City
 #### Circle of the People

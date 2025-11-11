@@ -1,16 +1,16 @@
 ---
-{"publish":true,"aliases":"The Heartland","modified":"2025-11-11T15:24:30.371-05:00","tags":["location","province","aurenne"],"cssclasses":""}
+{"publish":true,"aliases":"The Heartland","modified":"2025-11-11T15:26:22.437-05:00","tags":["location","province","aurenne"],"cssclasses":""}
 ---
 
 *Of Blood and Tradition*
 
-Beyond its great provinces and coastal dominions, [[Aurenne]]’s heartland is dotted with dozens of duchies, baronies, and holdfasts, minor realms that trace their lineages to the kingdom’s founding wars. Some rule fertile valleys and riverlands; others command highland fortresses or mist-wrapped moors. Each swears fealty to the Crown but governs with fierce independence, their banners and customs as varied as the soil beneath them. These duchies serve as Aurenne’s lifeblood, managing trade routes, training levies, and preserving the old rites forgotten by the capital. From the marble workshops of [[Aurenne's Heartland#Valmere]] to the storm-worn bastions of [[Aurenne's Heartland#Korrin Peaks]], from the plains of [[Aurenne's Heartland#Tareth]] to the twilight vineyards of [[Aurenne's Heartland#Rhaedun]], they are the quiet architecture of the realm’s endurance, a thousand loyal voices upholding the weight of Aurenne.
+Beyond its great provinces and coastal dominions, [[Aurenne]]’s heartland is dotted with dozens of duchies, baronies, and holdfasts, minor realms that trace their lineages to the kingdom’s founding wars. Some rule fertile valleys and riverlands; others command highland fortresses or mist-wrapped moors. Each swears fealty to the Crown but governs with fierce independence, their banners and customs as varied as the soil beneath them. These duchies serve as Aurenne’s lifeblood, managing trade routes, training levies, and preserving the old rites forgotten by the capital. From the marble workshops of [[Aurenne's Heartland#Valmere]] to the storm-worn bastions of [[Aurenne's Heartland#Korrin Peak]], from the plains of [[Aurenne's Heartland#Tareth]] to the twilight vineyards of [[Aurenne's Heartland#Rhaedun]], they are the quiet architecture of the realm’s endurance, a thousand loyal voices upholding the weight of Aurenne.
 ### Cities
 
 #### Galdmere
 *The Forge in the Foothills*
 Nestled in the foothills of [[Alar's Fist]], Galdmere is a sturdy, disciplined city where silver and iron are smelted and shaped into coin, jewelry, and weaponry. Guilds hold greater sway than nobles here; to the folks of Galdmere, wealth is earned through hard work, not inheritance.
-#### Korrin Peaks
+#### Korrin Peak
 *Subtitle*
 #### Rhaedun
 *The Twilight Delta*
