@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Aurenne The Kingdom of Aurenne","modified":"2025-11-11T15:29:27.183-05:00","tags":["country","aurenne","location"],"cssclasses":""}
+{"publish":true,"aliases":"Aurenne The Kingdom of Aurenne","modified":"2025-11-11T18:24:10.225-05:00","tags":["country","aurenne","location"],"cssclasses":""}
 ---
 
 *“Two Voices, One Song.”*
@@ -9,25 +9,24 @@ Aurenne is a realm of refined splendor balanced upon quiet unrest, a gilded mona
 The throne rules through a constitutional monarchy, where the sovereign’s voice is counterweighted by Parliament’s divided blocs: the reformist [[Aurenne City#Circle of the People\|Circle of the People]]; the mercantile [[Aurenne City#The Pearl Veil Consortium\|Pearl Veil Consortium]]; the aristocratic [[Aurenne City#The Illuminate\|Illuminate]]; and the bureaucratic [[Aurenne City#The Pillar Assembly\|Pillar Assembly]], within which the shadowed order of the [[Aurenne City#The Inherent (Subfaction of the Pillar Assembly)\|Inherent]] manipulates policy unseen. Beneath these sanctioned powers, the streets whisper with the dealings of thieves’ guilds and merchant cabals, while provincial lords and faith orders vie for favor in a system ever at risk of its own elegance. 
 
 Aurenne endures through balance, between light and secrecy, faith and reason, law and profit, its beauty both armor and deception, its peace maintained not by purity, but by the quiet precision of those who know how easily perfection can crack.
-
 ##### Monarch: [[King Roquint Casteyr]]
 *Sovereign of the Realm, Keeper of the Crowned Concord*
 ##### Heir Apparent: [[Prince Corvin Casteyr]]
-*Crown Prince of Aurenne, bearer of the Sigil of Continuance*
+*Crown Prince of Aurenne, bearer of the [[Sigil of Continuance]]*
 
 ### Principal Members of the Council and Parliament
 |               Name                |                    Title / Role                    |                             Affiliation / Province                              | Significance & Influence                                                                                                                                                    |
 | :-------------------------------: | :------------------------------------------------: | :-----------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |       [[Lady Miren Solis]]        |             Speaker of the Parliament              |                                [[Aurenne City]]                                 | A reformist stateswoman who champions the rights of the common guilds and provincial councils. Known for eloquence, cunning debate, and her “Circle of the People” faction. |
-|      [[Lord Thalen Veyric]]       |          High Chancellor of the Treasury           |                              [[Aurenne#The Silver Vale]]                               | A pragmatic financier who believes in strengthening Aurenne’s trade routes and mint authority. Accused of quiet favoritism toward merchant houses.                          |
+|      [[Lord Thalen Veyric]]       |          High Chancellor of the Treasury           |                              [[The Silver Vale]]                               | A pragmatic financier who believes in strengthening Aurenne’s trade routes and mint authority. Accused of quiet favoritism toward merchant houses.                          |
 | [[High Matron Serayne Valenwode]] |                 Voice of the Faith                 | [[Aurenne City#The Temple of the Radiant Path\|The Temple of the Radiant Path]] | Descendant of Tiria Valenwode; oversees moral and religious integrity in governance. Holds the power to censure edicts deemed “spiritually unsound.”                        |
-|    [[Marshal Corin Deyrsson]]     | Commander of the Ministry of War and Royal Wardens |                             [[Aurenne#Deyrholm Frontier]]                              | A descendant of the rebel Margrave Deyr; fiercely loyal to the throne, eager to prove his bloodline’s redemption. Commands the Crown’s standing army.                       |
+|    [[Marshal Corin Deyrsson]]     | Commander of the Ministry of War and Royal Wardens |                             [[The Deyrholm Frontier]]                              | A descendant of the rebel Margrave Deyr; fiercely loyal to the throne, eager to prove his bloodline’s redemption. Commands the Crown’s standing army.                       |
 |    [[Mistress Kaedra Wynfall]]    |           Guild Envoy and Trade Minister           |                             [[Aurenne#The Port of Elaren]]                             | Represents the Merchant Guilds and oversees tariffs and resource allotments. Has powerful ties to sea-trade cartels and the corsair lords of the western isles.             |
 |   [[Archscribe Loryn Talveris]]   |         Keeper of the The People’s Chamber         |   [[Aurenne City#The Archives of Aurenne City\|The Archives of Aurenne City]]   | A neutral chronicler and mediator between Crown and Parliament. Custodian of all constitutional texts and judicial precedents.                                              |
-|    [[General Fenric Thassel]]     |                Minister of Defense                 |                               [[Aurenne#The Iron Holds]]                               | Veteran of the Border Wars; distrustful of foreign alliances. Commands influence among the border legions and noble militias.                                               |
-|    [[Countess Elyra Vaeloren]]    |                Minister of Cultural                |                            [[Aurenne#The Vale of Rhaenne]]                             | Oversees education, art, and the preservation of royal archives. Quietly works to preserve noble influence in civic affairs under the guise of tradition.                   |
+|    [[General Fenric Thassel]]     |                Minister of Defense                 |                               [[The Iron Holds]]                               | Veteran of the Border Wars; distrustful of foreign alliances. Commands influence among the border legions and noble militias.                                               |
+|    [[Countess Elyra Vaeloren]]    |                Minister of Cultural                |                            [[The Vale of Rhaenne]]                             | Oversees education, art, and the preservation of royal archives. Quietly works to preserve noble influence in civic affairs under the guise of tradition.                   |
 |        [[Sir Iven Marric]]        |             Master of the Civic Guard              |                       The Capital Guard, [[Aurenne City]]                       | Represents the urban enforcement corps. Beloved by the city’s commonfolk but viewed with suspicion by noble peers for his populist leanings.                                |
-|   [[Ambassador Naelen Torvane]]   |            Minister of Foreign Affairs             |                             [[Aurenne#The Sapphire Coast]]                             | Handles Aurenne’s diplomacy with the neighboring kingdoms. Known for a silver tongue and veiled ambitions, rumored to court alliances that may unsettle the Crown.          |
+|   [[Ambassador Naelen Torvane]]   |            Minister of Foreign Affairs             |                             [[The Sapphire Coast]]                             | Handles Aurenne’s diplomacy with the neighboring kingdoms. Known for a silver tongue and veiled ambitions, rumored to court alliances that may unsettle the Crown.          |
 
 ### Political Climate
 Aurenne’s council remains a delicate tapestry of reformists, loyalists, and pragmatists, all nominally united under the monarch’s authority but perpetually vying for ideological dominance. The Speaker of the Parliament leads the reformist bloc favoring greater provincial autonomy, while the High Chancellor and Defense Minister rally the conservative nobility who wish to consolidate power around the throne. The Voice of the Faith serves as a moral arbiter between both, and the Keeper of the The People’s Chamber maintains the fragile balance that has preserved Aurenne’s stability for over a century.
@@ -41,21 +40,21 @@ The radiant capital and seat of both the Crown and Parliament, built around the 
 Rolling plains and river-vales rich with farmland and silver-veined hills. [[The Silver Vale]] is famed for their minted coinage, fine horses, and merchant nobles. Pragmatic and profit-driven, their allegiance often follows the weight of gold more than the pull of honor.
 #### Deyrholm Frontier
 *The Shield of the East*
-A rugged, wind-scoured expanse of fortresses and high moors where Aurenne’s borders meet [[Ravne]]’s lands. The people of the [[Deyrholm Frontier]] are soldiers born, disciplined, stoic, and suspicious of outsiders. The Deyrsson line commands deep respect here, remembered for redeeming their ancestor’s rebellion.
-#### The Port of Elaren
-*The Kingdom’s Lifeline to the Sea*
-A sprawling coastal city of docks, shipwrights, and traders. [[Elaren]] thrives on commerce with foreign isles and distant continents, blending Aurenic refinement with cosmopolitan edge. [[The Guild Envoy]] wields enormous soft power here, as tariffs and sea law dictate the realm’s prosperity.
+A rugged, wind-scoured expanse of fortresses and high moors where Aurenne’s borders meet [[Ravne]]’s lands. The people of the [[The Deyrholm Frontier]] are soldiers born, disciplined, stoic, and suspicious of outsiders. The Deyrsson line commands deep respect here, remembered for redeeming their ancestor’s rebellion.
 #### The Iron Holds
 *The Mountain Bastion*
 A chain of fortress-mines and blackstone keeps carved into Aurenne’s southwestern ranges. [[The Iron Holds]] supply the realm’s steel, weapons, and disciplined soldiery. Their people value endurance, craftsmanship, and martial honor, wary of soft politics but unyielding in loyalty when war calls.
 #### The Vale of Rhaenne
 *The Cradle of Culture*
-Verdant valleys and misty woodlands known for poets, artisans, and the oldest noble bloodlines. The [[Vale of Rhaenne]] houses Aurenne’s academies and conservatories, preserving art and etiquette from the old monarchy. Its countess safeguards tradition even as the world around her shifts toward reform.
+Verdant valleys and misty woodlands known for poets, artisans, and the oldest noble bloodlines. The [[The Vale of Rhaenne]] houses Aurenne’s academies and conservatories, preserving art and etiquette from the old monarchy. Its countess safeguards tradition even as the world around her shifts toward reform.
 #### The Sapphire Coast
 *Gateway of Diplomacy* 
 A sunlit southern coastline dotted with embassies, villas, and sea fortresses. Known for its azure bays and vineyards, [[The Sapphire Coast]] is Aurenne’s window to the world  - where envoys, spies, and merchant princes weave alliances under banners of courtesy and wine-stained smiles.
 #### The Heartland
 Beyond its great provinces and coastal dominions, Aurenne’s heartland is dotted with dozens of duchies, baronies, and holdfasts, minor realms that trace their lineages to the kingdom’s founding wars. Some rule fertile valleys and riverlands; others command highland fortresses or mist-wrapped moors. Each swears fealty to the Crown but governs with fierce independence, their banners and customs as varied as the soil beneath them. These duchies serve as Aurenne’s lifeblood, managing trade routes, training levies, and preserving the old rites forgotten by the capital. From the marble workshops of [[Aurenne's Heartland#Valmere\|Valmere]] to the storm-worn bastions of [[Aurenne's Heartland#Korrin Peak\|Korrin Peak]], from the plains of [[Aurenne's Heartland#Tareth\|Tareth]] to the twilight vineyards of [[Aurenne's Heartland#Rhaedun\|Rhaedun]], they are the quiet architecture of the realm’s endurance, a thousand loyal voices upholding the weight of Aurenne.
+#### The Port of Elaren
+*The Kingdom’s Lifeline to the Sea*
+A sprawling coastal city of docks, shipwrights, and traders. [[Elaren]] thrives on commerce with foreign isles and distant continents, blending Aurenic refinement with cosmopolitan edge. [[The Guild Envoy]] wields enormous soft power here, as tariffs and sea law dictate the realm’s prosperity.
 ### Related NPCs
 - [[Sir Renault Durand\|Sir Renault Durand]]
 - [[Seriane of Deyrholm\|Seriane of Deyrholm]]
@@ -65,6 +64,12 @@ Beyond its great provinces and coastal dominions, Aurenne’s heartland is dotte
 - [[King Roquint Casteyr\|King Roquint Casteyr]]
 - [[Adraston and Lucenne Casteyr\|Adraston and Lucenne Casteyr]]
 
-### Cities
+### Locations
+- [[Aurenne\|Aurenne]]
 - [[Aurenne City\|Aurenne City]]
+- [[Aurenne's Heartland\|Aurenne's Heartland]]
+- [[The Deyrholm Frontier\|The Deyrholm Frontier]]
+- [[The Sapphire Coast\|The Sapphire Coast]]
+- [[The Silver Vale\|The Silver Vale]]
+- [[The Vale of Rhaenne\|The Vale of Rhaenne]]
 

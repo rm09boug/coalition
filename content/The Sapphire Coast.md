@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"The Coast","modified":"2025-11-11T15:07:54.821-05:00","tags":["location","province","aurenne"],"cssclasses":""}
+{"publish":true,"aliases":"The Coast","modified":"2025-11-11T15:41:32.200-05:00","tags":["location","province","aurenne","sapphire-coast"],"cssclasses":""}
 ---
 
 *Gateway of Diplomacy*
