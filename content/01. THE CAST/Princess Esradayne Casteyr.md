@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Esra Esradayne","modified":"2025-11-12T22:44:11.627-05:00","tags":["esra","pc","house-casteyr"],"cssclasses":""}
+{"publish":true,"aliases":"Esra Esradayne","modified":"2025-11-12T23:19:16.887-05:00","tags":["esra","pc","house-casteyr"],"cssclasses":""}
 ---
 
 ### Quick Facts
@@ -21,6 +21,8 @@
 - At some point, [[01. THE CAST/Kismet]] is assigned to protect Corvin. Corvin spends more and more time with the King, Esra and the twins do not see their father often.
 	- Around this time, Esra is taken captive during a visit to the city.
 	- She is later rescued by one of Renault's squires. [[02. CHARACTERS/Sir Renault Durand\|Sir Renault]] is quietly retired.
+	- The experience causes Esra to sequester herself within the walls of the keep.
+- In 640, Esra's mother is killed in a riding accident after spending several months away from the castle. Esra withdraws further.
 - In 641, Esra is betrothed to [[02. CHARACTERS/Prince Erasyl Kadin]] of [[03. LOCATIONS/The Free Cities of Selvarra]].
 - Prince Kadin's half-nephew [[01. THE CAST/Nasrin Rajat Darakan]] arrives at court to collect Esra (?)
 - Game start :]
@@ -28,8 +30,8 @@
 - [[02. CHARACTERS/King Roquint Casteyr]]
 	- His first wife, [[02. CHARACTERS/Queen Virelle Casteyr]]
 	- His second wife, [[02. CHARACTERS/Queen Sylveth Casteyr]]
-	- His consort, [[02. CHARACTERS/Seriane of Deyrholm]]
 		- Twins, [[02. CHARACTERS/Adraston and Lucenne Casteyr]]
+	- His consort, [[02. CHARACTERS/Seriane of Deyrholm]]
 - [[02. CHARACTERS/Prince Corvin Casteyr]]
 - [[02. CHARACTERS/Sir Renault Durand]]
 - [[02. CHARACTERS/Prince Erasyl Kadin]]
