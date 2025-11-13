@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Esra Esradayne","modified":"2025-11-12T23:19:16.887-05:00","tags":["esra","pc","house-casteyr"],"cssclasses":""}
+{"publish":true,"aliases":"Esra Esradayne","modified":"2025-11-12T23:32:19.537-05:00","tags":["esra","pc","house-casteyr"],"cssclasses":""}
 ---
 
 ### Quick Facts
@@ -9,7 +9,7 @@
 **Disposition:** Extroverted, curious. Polite but arrogant. 
 **Current Seat:** Princess of [[03. LOCATIONS/Aurenne]], betrothed to [[02. CHARACTERS/Prince Erasyl Kadin]], a Merchant Prince from [[03. LOCATIONS/The Free Cities of Selvarra]]
 ### Pre-Game History
-- Born 621, first child of [[King Roquint Casteyr ]]and [[02. CHARACTERS/Seriane of Deyrholm]], his consort.
+- Born 621, first child of [[King Roquint Casteyr ]]and [[02. CHARACTERS/Seriane of the East-wind]], his consort.
 - In 625, [[02. CHARACTERS/Prince Corvin Casteyr]] is born. The first son of the King, and child of [[02. CHARACTERS/Queen Virelle Casteyr]], he becomes the heir apparent.
 - In 627, Queen Virelle gives birth to a daughter, Alerienne. She is frail, and dies only two months later.
 	- The relationship between Virelle and the young Esra begins to sour.
@@ -31,7 +31,7 @@
 	- His first wife, [[02. CHARACTERS/Queen Virelle Casteyr]]
 	- His second wife, [[02. CHARACTERS/Queen Sylveth Casteyr]]
 		- Twins, [[02. CHARACTERS/Adraston and Lucenne Casteyr]]
-	- His consort, [[02. CHARACTERS/Seriane of Deyrholm]]
+	- His consort, [[02. CHARACTERS/Seriane of the East-wind]]
 - [[02. CHARACTERS/Prince Corvin Casteyr]]
 - [[02. CHARACTERS/Sir Renault Durand]]
 - [[02. CHARACTERS/Prince Erasyl Kadin]]

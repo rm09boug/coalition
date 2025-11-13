@@ -1,10 +1,12 @@
 ---
-{"publish":true,"aliases":"The Heartland Heartlands","modified":"2025-11-11T18:05:19.299-05:00","tags":["location","province","aurenne","heartland"],"cssclasses":""}
+{"publish":true,"aliases":"The Heartland Heartlands","modified":"2025-11-12T23:29:13.380-05:00","tags":["location","province","aurenne","heartland"],"cssclasses":""}
 ---
 
 *Of Blood and Tradition*
 
 Beyond its great provinces and coastal dominions, [[03. LOCATIONS/Aurenne]]’s heartland is dotted with dozens of duchies, baronies, and holdfasts, minor realms that trace their lineages to the kingdom’s founding wars. Some rule fertile valleys and riverlands; others command highland fortresses or mist-wrapped moors. Each swears fealty to the Crown but governs with fierce independence, their banners and customs as varied as the soil beneath them. These duchies serve as Aurenne’s lifeblood, managing trade routes, training levies, and preserving the old rites forgotten by the capital. From the marble workshops of [[03. LOCATIONS/Aurenne's Heartland#Valmere]] to the storm-worn bastions of [[03. LOCATIONS/Aurenne's Heartland#Korrin Peak]], from the plains surrounding [[03. LOCATIONS/Aurenne's Heartland#Tareth]] to the twilight vineyards of [[03. LOCATIONS/Aurenne's Heartland#Rhaedun]], they are the quiet architecture of the realm’s endurance, a thousand loyal voices upholding the weight of Aurenne.
+
+The Heartland's southern plains are also home to [[04. WORLD/The Rhunari]], nomadic elves descended from the ancient woad elves that once populated the region's now-leveled forests.
 ### Cities
 
 #### Galdmere
