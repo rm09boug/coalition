@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Aurenne The Kingdom of Aurenne","modified":"2025-11-11T18:24:10.225-05:00","tags":["country","aurenne","location"],"cssclasses":""}
+{"publish":true,"aliases":"Aurenne The Kingdom of Aurenne","modified":"2025-11-12T22:46:01.297-05:00","tags":["country","aurenne","location"],"cssclasses":""}
 ---
 
 *“Two Voices, One Song.”*
@@ -13,7 +13,6 @@ Aurenne endures through balance, between light and secrecy, faith and reason, la
 *Sovereign of the Realm, Keeper of the Crowned Concord*
 ##### Heir Apparent: [[02. CHARACTERS/Prince Corvin Casteyr]]
 *Crown Prince of Aurenne, bearer of the [[Sigil of Continuance]]*
-
 ### Principal Members of the Council and Parliament
 |               Name                |                    Title / Role                    |                             Affiliation / Province                              | Significance & Influence                                                                                                                                                    |
 | :-------------------------------: | :------------------------------------------------: | :-----------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -56,9 +55,9 @@ Beyond its great provinces and coastal dominions, Aurenne’s heartland is dotte
 *The Kingdom’s Lifeline to the Sea*
 A sprawling coastal city of docks, shipwrights, and traders. [[Elaren]] thrives on commerce with foreign isles and distant continents, blending Aurenic refinement with cosmopolitan edge. [[The Guild Envoy]] wields enormous soft power here, as tariffs and sea law dictate the realm’s prosperity.
 ### Related NPCs
-- [[02. CHARACTERS/Sir Renault Durand\|Sir Renault Durand]]
 - [[02. CHARACTERS/Seriane of Deyrholm\|Seriane of Deyrholm]]
 - [[02. CHARACTERS/Queen Virelle Casteyr\|Queen Virelle Casteyr]]
+- [[02. CHARACTERS/Sir Renault Durand\|Sir Renault Durand]]
 - [[02. CHARACTERS/Queen Sylveth Casteyr\|Queen Sylveth Casteyr]]
 - [[02. CHARACTERS/Prince Corvin Casteyr\|Prince Corvin Casteyr]]
 - [[02. CHARACTERS/King Roquint Casteyr\|King Roquint Casteyr]]

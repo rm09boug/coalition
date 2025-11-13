@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Esra Esradayne","modified":"2025-11-03T12:09:00.759-05:00","tags":["esra","pc","house-casteyr"],"cssclasses":""}
+{"publish":true,"aliases":"Esra Esradayne","modified":"2025-11-12T22:44:11.627-05:00","tags":["esra","pc","house-casteyr"],"cssclasses":""}
 ---
 
 ### Quick Facts
@@ -19,10 +19,9 @@
 - Roquint remarries in 632, and [[02. CHARACTERS/Queen Sylveth Casteyr]] gives birth to twins in 633.
 	- Esra and Sylveth are only two years apart in age; they may have even known each other as children.
 - At some point, [[01. THE CAST/Kismet]] is assigned to protect Corvin. Corvin spends more and more time with the King, Esra and the twins do not see their father often.
-	- Esra spends a lot of time caring for the twins while their mother does fantasy opium.
+	- Around this time, Esra is taken captive during a visit to the city.
+	- She is later rescued by one of Renault's squires. [[02. CHARACTERS/Sir Renault Durand\|Sir Renault]] is quietly retired.
 - In 641, Esra is betrothed to [[02. CHARACTERS/Prince Erasyl Kadin]] of [[03. LOCATIONS/The Free Cities of Selvarra]].
-	- Esra is accosted in the streets around this time. [[01. THE CAST/Kismet]] (?) comes to her rescue.
-	- [[02. CHARACTERS/Sir Renault Durand\|Sir Renault]] is quietly retired.
 - Prince Kadin's half-nephew [[01. THE CAST/Nasrin Rajat Darakan]] arrives at court to collect Esra (?)
 - Game start :]
 ### Related NPCs

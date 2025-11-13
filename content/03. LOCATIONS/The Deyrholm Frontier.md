@@ -1,9 +1,12 @@
 ---
-{"publish":true,"aliases":"Deyrholm the Frontier","modified":"2025-11-11T18:22:11.112-05:00","tags":["location","deyrholm","aurenne","province"],"cssclasses":""}
+{"publish":true,"aliases":"Deyrholm the Frontier","modified":"2025-11-12T22:53:43.466-05:00","tags":["location","deyrholm","aurenne","province"],"cssclasses":""}
 ---
 
 *The Shield of the East*
 A rugged, wind-scoured expanse of fortresses and high moors where Aurenne’s borders meet [[03. LOCATIONS/Ravne]]’s lands. The people of the Deyrholm Frontier are soldiers born, disciplined, stoic, and suspicious of outsiders. The Deyrsson line commands deep respect here, remembered for redeeming their ancestor’s rebellion.
+
+The frontier is also home to [[04. WORLD/The Rhunari]], nomadic elves descended from the ancient woad elves that once populated southern Aurenne's now-leveled forests.
+### Deyr's Rebellion
 
 Generations ago, this land was ruled by [[Duke Alar Deyr]], a proud and forceful lord who defied the Crown’s authority during the waning years of [[King Alaric III]]. Believing himself the realm’s true protector against foreign corruption, Alar raised his banners in rebellion, only for it to be revealed that his defiance was guided by Ravnean gold and counsel. The uprising became one of the bloodiest civil wars in Aurenne’s history, ending with Alar’s death atop the ramparts of [[Deyrholm Keep]].
 

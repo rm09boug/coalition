@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Rhunari Riders Rhunari Elves","modified":"2025-11-12T22:32:22.171-05:00","tags":["aurenne","deyrholm","faction","rhunari"],"cssclasses":""}
+{"publish":true,"aliases":"Rhunari Riders Rhunari Elves","modified":"2025-11-12T22:55:03.109-05:00","tags":["aurenne","deyrholm","faction","rhunari"],"cssclasses":""}
 ---
 
 *The Elven Riders of the Deyrholm Frontier*
@@ -17,10 +17,10 @@ The Aurenkha are protectors of the frontier's boarders and the great Khaeni herd
 With a reputation for raiding and some of the most massive Khaeni mounts among all Rhunari, the Veythar are feared by outsiders and kin alike. They are renowned for their ritual duels, where warriors ride in tight circles trading arrow and spear until blood is drawn.
 #### Clan Saelvar (Dawnrush)
 *Speakers of the East Wind*
-The Saelvar are story-tellers and chroniclers that prize freedom and exchange. Not only do they trade with foreign merchants, but Saelvar youths will often leave their clans to wander - and sometimes even settle among - human frontier towns for a season.
+The Saelvar are story-tellers and chroniclers that prize freedom and exchange. Not only do they commonly trade with outsiders, but Saelvar youths will often leave their clans to wander - and sometimes even settle among - human frontier towns for a season.
 #### Clan Rhunveil (Cloudstrider)
-*Shaman of the West Wind*
-Rhunveil shamans are entrusted with the maintenance of the steppe's Waystones and with overseeing the Tahl Moot, a grand gathering of the clans held every fifth year to exchange goods, arrange unions, and settle feuds. They tend semi-permanent encampments, where they drape their tents in woven grass streamers that hum in the breeze like haunting melody. 
+*Shamans of the West Wind*
+Rhunveil shamans are entrusted with the maintenance of the steppe's Waystones and with overseeing the *Tahl Moot*, a grand gathering of the clans held every fourth year to exchange goods, arrange unions, and settle feuds. They tend semi-permanent encampments, where they drape their tents in woven grass streamers that hum in the breeze like haunting birdsong. 
 ### The Khaeni - Horned Steeds of the Frontier
 Khaeni (singular Khaen) are massive, short-furred equine beasts, often mistaken for unicorns by outsiders - though the Rhunari would say that’s akin to mistaking a cougar for a house cat.
 
