@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"The Heartland Heartlands","modified":"2025-11-12T23:29:13.380-05:00","tags":["location","province","aurenne","heartland"],"cssclasses":""}
+{"publish":true,"aliases":"The Heartland Heartlands","modified":"2025-11-16T11:37:48.309-05:00","tags":["location","province","aurenne","heartland"],"cssclasses":""}
 ---
 
 *Of Blood and Tradition*
@@ -35,4 +35,5 @@ On the southern coast of Argent Bay, west of [[03. LOCATIONS/Aurenne City]], Tha
 *The Jewel of Lake Mer Aurel*
 Valmere sits the coast of the vast inland lake called Mer Aurel, and is the heart of the Aurenne’s inland trade; barges drift down its silvery waters laden with grain, silver ingots, and horse tack bound for [[03. LOCATIONS/Aurenne#The Port of Elaren\|Port Elaren]]. The city’s low, marble terraces are built around a sprawling marketplace and an ancient bell tower that rings to announce market tides.
 ### Related NPCs
+- [[02. CHARACTERS/Seriane of the East-wind\|Seriane of the East-wind]]
 

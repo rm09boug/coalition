@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Deyrholm the Frontier","modified":"2025-11-12T23:28:08.195-05:00","tags":["location","deyrholm","aurenne","province"],"cssclasses":""}
+{"publish":true,"aliases":"Deyrholm the Frontier","modified":"2025-11-16T11:40:01.343-05:00","tags":["location","deyrholm","aurenne","province"],"cssclasses":""}
 ---
 
 *The Shield of the East*
@@ -10,7 +10,10 @@ Generations ago, this land was ruled by [[Duke Alar Deyr]], a proud and forceful
 
 In the aftermath, the crown spared the Deyr name but not its shame. [[Lord Corin Deyrrson]], Alar’s younger brother, was granted stewardship over the reclaimed province on the condition that his line serve as eternal wardens of the eastern border, guardians bound by oath and guilt alike. The Deyrsson bloodline descends from Corin, and to this day, they labor to erase the stain of treachery through steadfast service, their loyalty to Aurenne proven in every generation by steel and sacrifice.
 ### Cities
-
+#### Ramona's Mirror
+Seat of Duke Orion Darakan.
 ### Related NPCs
-- [[02. CHARACTERS/Seriane of the East-wind\|Seriane of the East-wind]]
+- [[02. CHARACTERS/Duke Orion Darakan\|Duke Orion Darakan]]
+- [[02. CHARACTERS/Lady Chyre Darakan\|Lady Chyre Darakan]]
+- [[02. CHARACTERS/Marquis Avalin Leonis Darakan\|Marquis Avalin Leonis Darakan]]
 

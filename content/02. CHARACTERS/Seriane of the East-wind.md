@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Seriane Lady Seriane","modified":"2025-11-12T23:31:27.752-05:00","tags":["npc","aurenne","house-casteyr","deyrholm"],"cssclasses":""}
+{"publish":true,"aliases":"Seriane Lady Seriane","modified":"2025-11-16T11:37:26.744-05:00","tags":["npc","aurenne","house-casteyr","heartlands"],"cssclasses":""}
 ---
 
 *Former Consort of the King*
