@@ -1,8 +1,8 @@
 ---
-{"publish":true,"modified":"2025-11-19T14:29:15.842-05:00","tags":["pc","aspen"],"cssclasses":""}
+{"publish":true,"aliases":"Vesper Vesper Lyell","modified":"2025-11-25T12:03:00.487-05:00","tags":["pc","aspen","aurenne","house-lyell"],"cssclasses":""}
 ---
 
-*A tagline*
+*Captain of the Cerberus*
 ### Quick Facts
 **Birthday:** The 17th of Ashfall, 618 A.F
 **Born in:** [[03. LOCATIONS/Aurenne City]]
@@ -10,17 +10,17 @@
 **Disposition:** Charming, cocky, impulsive, and playful. Sometimes comes across as cold.
 **Current Seat:** Eldest son of the Lyell family, Captain of the "[[Cerberus]]", one of the flagships for the corsair fleet. 
 ### Pre-Game History
-- 589: Notorious pirate Captain (and thorn in the royal Navy's side) [[Vander Lyell]] is approached by the crown at 25
+- 589: Notorious pirate Captain (and thorn in the royal Navy's side) [[04. WORLD/House Lyell\|Vander Lyell]] is approached by the crown at 25
 	- Vander is asked to end his reign of terror over the coast in exchange for land, and a title, provided he would also serve as a corsair to put a stop to the rampant piracy on the coast
 - 590: Vander is appointed as a Lord for his exceptional service to the crown
 	- The Lyell name is no longer synonymous with piracy, instead now well known as the one who brought order back to the [[03. LOCATIONS/The Sapphire Coast\|Sapphire Coast]] as ruthless hunters of pirates and inhibitor of illegal importing or smuggling. 
 - 593: Vander marries a commoner.
-- 594: [[Ventus Lyell]] is born, the only child of Vander.
-- 616: Ventus marries [[Aurora Blackwood]], the middle daughter of a winemaking family.
+- 594: [[02. CHARACTERS/Admiral Ventus Lyell]] is born, the only child of Vander.
+- 616: Ventus marries [[04. WORLD/House Lyell\|Aurora Blackwood]], the middle daughter of a winemaking family.
 - 618: Vesper is born 
-- 621: [[Xander Lyell]] (middle brother) is born
-- 624: [[Aster Lyell]] (youngest brother) is born. Vander retires at 60 and passes the legacy on to Ventus (30)
-- 625: [[Juniper Lyell]] (sister) is born
+- 621: [[04. WORLD/House Lyell\|Xander Lyell]] (middle brother) is born
+- 624: [[04. WORLD/House Lyell\|Aster Lyell]] (youngest brother) is born. Vander retires at 60 and passes the legacy on to Ventus (30)
+- 625: [[04. WORLD/House Lyell\|Juniper Lyell]] (sister) is born
 - 629: Vander dies at age 65
 - 637: Vesper appointed as Captain of the [[Polaris]]
 	- During this time, Vesper begins to make a name for himself, known on the sea for his daring but genius tactics in ship combat
