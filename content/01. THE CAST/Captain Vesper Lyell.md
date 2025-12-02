@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Vesper Vesper Lyell","modified":"2025-11-25T12:03:00.487-05:00","tags":["pc","aspen","aurenne","house-lyell"],"cssclasses":""}
+{"publish":true,"aliases":"Vesper Vesper Lyell","modified":"2025-12-02T15:31:23.281-05:00","tags":["pc","aspen","aurenne","house-lyell"],"cssclasses":""}
 ---
 
 *Captain of the Cerberus*
@@ -15,7 +15,7 @@
 - 590: Vander is appointed as a Lord for his exceptional service to the crown
 	- The Lyell name is no longer synonymous with piracy, instead now well known as the one who brought order back to the [[03. LOCATIONS/The Sapphire Coast\|Sapphire Coast]] as ruthless hunters of pirates and inhibitor of illegal importing or smuggling. 
 - 593: Vander marries a commoner.
-- 594: [[02. CHARACTERS/Admiral Ventus Lyell]] is born, the only child of Vander.
+- 594: [[02. NPCs/Admiral Ventus Lyell]] is born, the only child of Vander.
 - 616: Ventus marries [[04. WORLD/House Lyell\|Aurora Blackwood]], the middle daughter of a winemaking family.
 - 618: Vesper is born 
 - 621: [[04. WORLD/House Lyell\|Xander Lyell]] (middle brother) is born
