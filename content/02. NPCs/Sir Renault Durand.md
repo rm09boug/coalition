@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Renault Sir Renault Tolerance","modified":"2025-11-11T22:14:22.667-05:00","tags":["aurenne","npc"],"cssclasses":""}
+{"publish":true,"aliases":"Renault Sir Renault Tolerance","modified":"2025-12-02T15:27:23.323-05:00","tags":["aurenne","npc","crown-keepers"],"cssclasses":""}
 ---
 
 *Former Crownsguard of Aurenne; Tolerance; Knight of the Silver Reins*

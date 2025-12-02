@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Kismet","modified":"2025-11-03T11:36:58.158-05:00","tags":["pc","goat"],"cssclasses":""}
+{"publish":true,"aliases":"Kismet","modified":"2025-12-02T15:27:33.479-05:00","tags":["pc","goat","crown-keepers"],"cssclasses":""}
 ---
 
 *A tagline*

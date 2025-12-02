@@ -1,9 +1,9 @@
 ---
-{"publish":true,"aliases":"Keepers","modified":"2025-11-18T10:32:58.445-05:00","tags":["aurenne","faction"],"cssclasses":""}
+{"publish":true,"aliases":"Keepers","modified":"2025-12-02T15:27:04.227-05:00","tags":["aurenne","faction"],"cssclasses":""}
 ---
 
 **Ideology:** Royal Stewardship / Custodial Guardianship
-**Commander:** Knight-General [[Sir Varyn Elaroth]]
+**Commander:** Knight-General [[02. NPCs/Sir Varyn Elaroth]]
 **Symbol:** A golden crown bound by an iron circlet
 **Seat of Influence:** The Citadel, [[03. LOCATIONS/Aurenne City]]
 ### About
@@ -18,3 +18,8 @@ They train young in the [[03. LOCATIONS/Aurenne City#The Citadel\|Citadel]]’s 
 In peacetime, they stand as statues of ceremony, unmoving sentinels beside the throne, the vaults, and the tombs. But in crisis, they become the Crown’s final authority, empowered to act with absolute jurisdiction in the monarch’s name. Their allegiance is unflinching, their obedience absolute, even should their orders set them against Parliament, or against the people themselves.
 
 To the nobles, they are remnants of a holier age, living symbols of divine right and royal dignity. To the common folk, they are the monarch’s shadow made flesh, silent, faceless, and eternal.
+
+### Members
+- [[02. NPCs/Sir Varyn Elaroth\|Sir Varyn Elaroth]]
+- [[02. NPCs/Sir Renault Durand\|Sir Renault Durand]]
+- [[01. THE CAST/Kismet\|Kismet]]

@@ -1,9 +1,9 @@
 ---
-{"publish":true,"aliases":"Wardens","modified":"2025-11-18T10:26:18.808-05:00","tags":["aurenne","faction"],"cssclasses":""}
+{"publish":true,"aliases":"Wardens","modified":"2025-12-02T15:28:56.948-05:00","tags":["aurenne","faction"],"cssclasses":""}
 ---
 
 **Ideology:** Martial Service / Crowned Order
-**Commander:** [[Marshal Corin Deyrsson]], Lord of [[03. LOCATIONS/The Deyrholm Frontier]]
+**Commander:** [[02. NPCs/Marshal Corin Deyrsson]], Lord of [[03. LOCATIONS/The Deyrholm Frontier]]
 **Symbol:** A silver sword upright upon a field of black and gold
 **Seat of Influence:** The Bulwark, [[03. LOCATIONS/Aurenne City]]
 ### About
@@ -16,10 +16,14 @@ The Wardens’ authority is absolute in times of crisis; Parliament must yield t
 Their presence is marked by quiet discipline: black cloaks trimmed in gold, visors polished to a mirror sheen, and swords without ornament, for they believe that “a weapon should reflect only its bearer.”
 
 To the people, they are the Iron Watchers.
+### Members
+- [[02. NPCs/Sir Joran Thale\|Sir Joran Thale]]
+- [[02. NPCs/Marshal Corin Deyrsson\|Marshal Corin Deyrsson]]
+
 ## The Sentinels (Subfaction)
 
 **Ideology:** Service / Obedience / Vigilance
-**Commander:** Captain-General [[Ser Joran Thale]]
+**Commander:** Captain-General [[02. NPCs/Sir Joran Thale]]
 **Symbol:** A black tower crowned with a silver flame
 **Seat of Influence:** The Bulwark, Aurenne City
 ### About
@@ -28,3 +32,5 @@ The Crown Sentinels are the enlisted arm of the Royal Wardens, foot soldiers, ri
 Unlike the Wardens’ gold-trimmed cloaks, the Sentinels wear plain black mantles with pips denoting their rank. Their helms bear a vertical slit visor, giving them the aspect of statues in the torchlight. Many call them “the Black Flame,” for their discipline and the faint glint of their watch-fires seen along the highways at night.
 
 To serve among the Sentinels is to aspire upward, those who distinguish themselves may be anointed into the Wardens’ ranks, a rare elevation that binds their name to the Covenant.
+### Members
+- [[02. NPCs/Sir Joran Thale\|Sir Joran Thale]]
