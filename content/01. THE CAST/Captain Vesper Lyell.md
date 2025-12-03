@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Vesper Vesper Lyell","modified":"2025-12-02T15:31:23.281-05:00","tags":["pc","aspen","aurenne","house-lyell"],"cssclasses":""}
+{"publish":true,"aliases":"Vesper Vesper Lyell Captain Lyell","modified":"2025-12-03T12:39:52.597-05:00","tags":["pc","aspen","aurenne","house-lyell"],"cssclasses":""}
 ---
 
 *Captain of the Cerberus*
