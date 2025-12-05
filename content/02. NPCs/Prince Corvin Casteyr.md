@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Prince Corvin Corvin","modified":"2025-10-29T18:11:22.516-04:00","tags":["npc","aurenne","house-casteyr"],"cssclasses":""}
+{"publish":true,"aliases":"Prince Corvin Corvin","modified":"2025-12-05T12:36:52.668-05:00","tags":["npc","aurenne","house-casteyr"],"cssclasses":""}
 ---
 
 *Crown Prince of Aurenne, bearer of the Sigil of Continuance*
